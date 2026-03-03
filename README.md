@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sai Prabha Das  
+# Hi 👋, I'm Saiprabha Das  
 
 🚀 Aspiring Data Scientist | Machine Learning Enthusiast | Problem Solver  
 
@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Always+Eager+to+Learn+New+Things+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=700&lines=Always+Eager+to+Learn+New+Things+🚀;Striving+for+Progress,+Not+Perfection." />
 </p>
 
 ---
