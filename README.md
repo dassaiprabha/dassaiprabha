@@ -2,6 +2,17 @@
 
 🚀 Aspiring Data Scientist | Machine Learning Enthusiast | Problem Solver  
 
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dassaiprabha&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=600&lines=Always+Eager+to+Learn+New+Things+🚀" />
+</p>
+
 ---
 
 ## 🌟 About Me
