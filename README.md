@@ -9,7 +9,7 @@
 - 💻 Skilled in **Python, Java, SQL**
 - 📊 Interested in **Data Analytics & Real-World Projects**
 - 🤝 Open to collaboration & hackathons
-- 📫 Reach me at: your-satyajitd964@gmail.com  
+- 📫 Reach me at: satyajitd964@gmail.com  
 
 ---
 
